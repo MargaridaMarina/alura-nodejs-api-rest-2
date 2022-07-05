@@ -10,3 +10,7 @@ $ npm install nodemon -D
 ```
 $ npm install express 
 ```
+### Instalando biblioteca para fazer link entre a api e o cluster criado no MongoDB Atlas
+```
+$ npm install mongoose 
+```
