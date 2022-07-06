@@ -14,3 +14,7 @@ $ npm install express
 ```
 $ npm install mongoose 
 ```
+### Rodar programa
+```
+$ npm run dev
+```
